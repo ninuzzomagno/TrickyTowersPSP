@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="File di intestazione">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="File di risorse">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="File di origine">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Backgrounds.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassBlock.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassCloud.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassGame.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassLevel.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassRenderer.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassResourceManager.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="timeManager.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassDraw.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassAnimatedSprite.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassCamera.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassGara.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassFlag.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassBaseGara.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="MyContactListener.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassTimer.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassRompicapo.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassBaseRompicapo.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassLaser.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassControls.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassBaseSopravvivenza.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassSopravvivenza.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassHearts.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassPausa.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Backgrounds.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassBlock.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassCloud.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassGame.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassLevel.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassRenderer.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassResourceManager.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="timeManager.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassDraw.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassAnimatedSprite.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassCamera.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="OggettiPartita.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="MyContactListener.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="MyQueryCallback.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassControls.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassPausa.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassLoadingScreen.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassMagicEffects.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

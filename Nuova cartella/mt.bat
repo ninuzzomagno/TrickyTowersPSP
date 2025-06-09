@@ -1,3 +1,0 @@
-clspsp
-make
-eboot.pbp
